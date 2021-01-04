@@ -1,0 +1,10 @@
+Package: IntCRISPR
+Type: Package
+Title: Integrates two separate genome-wide CRISPR screens
+Version: 1.0.0
+Author: Clare Pacini
+Maintainer: <cp16@sanger.ac.uk>
+Description: Accounts for batch effects in different CRISPR datasets using ComBat.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
